@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Heroes;
+    font-size: medium;
+    font-weight: 200;
+    font-style: normal;
+    src: local(Arial), local('Helvetica Neue'), local(Ubuntu), local(sans-serif);
+}
